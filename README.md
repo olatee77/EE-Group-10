@@ -16,9 +16,9 @@ A deep learning system for automated plant disease detection using ResNet-50 wit
 |-----|------|------------|-------|------|
 | 1 | Adeleke Desmond | 2022/11742 | adeleketimilehin5@gmail.com | Team Lead & Implementation |
 | 2 | olaofeoguntunde Taiwo | 2022/11361 | olatee99@gmail.com | Model Training & Optimization |
-| 3 | Adedayo Samuel | 2022/11245 | fabiadouglasm75@aol.com | Evaluation & Analysis |
-| 4 |  Oni Daniel | 2022/11358| odighizuwa2.9@gmail.com | Literature Review |
-| 5 | Sangotayo Prince | - | emma.ik2na@gmail.com | Documentation & Reporting |
+| 3 | Adedayo Samuel | 2022/11245 | samuelvindy@gmail.com | Evaluation & Analysis |
+| 4 |  Oni Daniel | 2022/11358| danielooni2006@gmail.com | Literature Review |
+| 5 | Sangotayo Prince | 2022/11516| sangotayoprince2005@gmail.com | Documentation & Reporting |
 
 ---
 
@@ -345,6 +345,7 @@ Bells University of Technology
 Ota, Ogun State, Nigeria
 
 ---
+
 
 
 
